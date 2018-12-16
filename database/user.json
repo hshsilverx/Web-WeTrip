@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5c1500f2215906864c04bfc9"},"name":"admin","phone":"13800000000","password":"4QrcOUm6Wau+VuBX8g+IPg==","idnumber":"1234567890"}
+{"_id":{"$oid":"5c150141215906864c04bfca"},"name":"boy","phone":"13000000000","password":"Gmma1eBqqKbbO8+c+y8A8g==","idnumber":"1234567890"}
+{"_id":{"$oid":"5c150152215906864c04bfcb"},"name":"girl","phone":"13900000000","password":"KMpT0re7SqE1SbQCLHncoQ==","idnumber":"1234567890"}
+{"_id":{"$oid":"5c15330dbc9058aa3dd1f798"},"name":"hsh","phone":"13000000000","password":"5B1/xsLSqn6TRmYzQPUgLw==","idnumber":"100000000000000000"}
+{"_id":{"$oid":"5c15332bbc9058aa3dd1f799"},"name":"wyb","phone":"10000000000","password":"b104a3NPp7rzm/ejFcWhpQ==","idnumber":"100000000000000000"}
+{"_id":{"$oid":"5c153347bc9058aa3dd1f79a"},"name":"ts","phone":"12000000000","password":"TWguxO7SfFOEl1i8E7bheQ==","idnumber":"1234567890"}
+{"_id":{"$oid":"5c153383bc9058aa3dd1f79b"},"name":"zyy","phone":"11000000000","password":"wwudcFfeUaMhvDh5M3XZ1Q==","idnumber":"1234567890"}
